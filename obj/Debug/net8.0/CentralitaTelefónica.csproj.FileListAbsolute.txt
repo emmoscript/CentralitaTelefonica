@@ -1,0 +1,28 @@
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/bin/Debug/net8.0/CentralitaTelefónica.exe
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/bin/Debug/net8.0/CentralitaTelefónica.deps.json
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/bin/Debug/net8.0/CentralitaTelefónica.runtimeconfig.json
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/bin/Debug/net8.0/CentralitaTelefónica.dll
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/bin/Debug/net8.0/CentralitaTelefónica.pdb
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.AssemblyInfoInputs.cache
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.AssemblyInfo.cs
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.csproj.CoreCompileInputs.cache
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.dll
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/refint/CentralitaTelefónica.dll
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.pdb
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/CentralitaTelefónica.genruntimeconfig.cache
+C:/Users/ARIEL PANTALEON/Desktop/CentralitaTelefónica/obj/Debug/net8.0/ref/CentralitaTelefónica.dll
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/bin/Debug/net8.0/CentralitaTelefónica
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/bin/Debug/net8.0/CentralitaTelefónica.deps.json
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/bin/Debug/net8.0/CentralitaTelefónica.runtimeconfig.json
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/bin/Debug/net8.0/CentralitaTelefónica.dll
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/bin/Debug/net8.0/CentralitaTelefónica.pdb
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.AssemblyInfoInputs.cache
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.AssemblyInfo.cs
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.dll
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/refint/CentralitaTelefónica.dll
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.pdb
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/CentralitaTelefónica.genruntimeconfig.cache
+/Users/admin/Desktop/CentralitaTelefónicaVersionMejorada/obj/Debug/net8.0/ref/CentralitaTelefónica.dll
